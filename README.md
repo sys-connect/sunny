@@ -1,6 +1,8 @@
 # Sunny
 You first need to download the NetLogo V6.3 and its Python plugin (link: https://ccl.northwestern.edu/netlogo/). To run the program, you can simply open the .nlogo file from NetLogo. 
 
+To run the prebuilt experiments, go to 'Tools' --> 'BehaviorSpace' --> select the experiment --> 'Run'.
+
 Details are in the "Info" section of the Sunny Cloud. 
 
 If you have found this software helpful in your research, please consider citing the preprint published at TechRxiv, IEEE.
