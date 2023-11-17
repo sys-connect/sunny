@@ -1,10 +1,10 @@
 # Sunny
-You first need to download the NetLogo V6.3 and its Python plugin (link: https://ccl.northwestern.edu/netlogo/). To run the program, you can simply open the .nlogo file from NetLogo. 
+To use the program, first download NetLogo V6.3 and its Python plugin from the following link: https://ccl.northwestern.edu/netlogo/. Once downloaded, you can open the .nlogo file in NetLogo to run the program.
 
-To run the prebuilt experiments, go to 'Tools' --> 'BehaviorSpace' --> select the experiment --> 'Run'.
+If you wish to execute prebuilt experiments, navigate to 'Tools' on the menu bar and select 'BehaviorSpace'. From there, choose the desired experiment and click 'Run' to initiate it.
 
-Details are in the "Info" section of the Sunny Cloud. 
+For more information about these steps or any other details related to this software, please refer to the "Info" section within the Sunny Cloud. 
 
-If you have found this software helpful in your research, please consider citing the preprint published at TechRxiv, IEEE.
+If you have benefited from using this software in your research, we kindly ask that you consider citing the paper below.
 
-Dong, Dapeng (2023): An Agent-based Simulation Modeling for Studying Resource Management in the Clouds. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.21805029.v1 
+Dong, D. Agent-based cloud simulation model for resource management. J Cloud Comp 12, 156 (2023). https://doi.org/10.1186/s13677-023-00540-5
